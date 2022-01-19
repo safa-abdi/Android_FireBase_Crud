@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string name="all">TODO</string>
+    <string name="couleur"></string>
+    <string name="name"></string>
+    <string name="title_activity_main"></string>
+    <string name="subtitle_activity_main"></string>
+    <string name="title_activity_add"></string>
+    <string name="name_form"></string>
+    <string name="anime_form"></string>
+    <string name="url_form"></string>
+    <string name="description_form"></string>
+    <string name="save"></string>
+    <string name="description"></string>
+    <string name="title_activity_edit"></string>
+</resources>
